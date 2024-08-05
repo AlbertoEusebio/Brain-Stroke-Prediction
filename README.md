@@ -25,7 +25,8 @@ To run the project, clone the repository and follow the instructions in the resp
 ### Report
 For an in-depth understanding of our work, including methodology, experiments, and results, please refer to our comprehensive report [here](https://www.overleaf.com/project/66ae4e48fffeb747f7265587).
 
-![Report Preview](https://example.com/path/to/report_preview.jpg)
+<iframe src="report/Brain_Stroke_Prediction_Project.pdf" width="100%" height="500px">
+</iframe>
 
 ### Team
 - **Members**: Cavallini Sara, Eusebio Alberto
