@@ -23,10 +23,9 @@ To run the project, clone the repository and follow the instructions in the resp
 2. **Best Practices Version**: [NAML_project_best_practice.ipynb](NAML_project_best_practice.ipynb)
 
 ### Report
-For an in-depth understanding of our work, including methodology, experiments, and results, please refer to our comprehensive report [here](https://www.overleaf.com/project/66ae4e48fffeb747f7265587).
+For an in-depth understanding of our work, including methodology, experiments, and results, please refer to our comprehensive report.
 
-<iframe src="report/Brain_Stroke_Prediction_Project.pdf" width="100%" height="500px">
-</iframe>
+ **Report**: [Brain_Stroke_Prediction_Project.pdf](report/Brain_Stroke_Prediction_Project.pdf)
 
 ### Team
 - **Members**: Cavallini Sara, Eusebio Alberto
