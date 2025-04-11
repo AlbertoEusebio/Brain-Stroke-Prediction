@@ -65,3 +65,18 @@ To explore and run the notebooks:
 5. Open and run the desired notebook:
   *  For paper replication: NAML_project_paper_replica_A.ipynb
   *  For best practices: NAML_project_best_practice_B.ipynb
+
+---
+
+## 📄 Report
+A detailed report outlining the project's methodology, experiments, results, and conclusions is available in the report/ directory.
+
+---
+
+## 👥 Team
+Sara Cavallini
+
+Alberto Eusebio
+
+University: Politecnico di Milano
+Course: Numerical Analysis for Machine Learning (NAML)
